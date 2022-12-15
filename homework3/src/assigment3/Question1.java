@@ -30,8 +30,8 @@ public class Question1 {
 			System.out.println("Girilen tam sayilarin en buyugu..: " + sayi2);
 
 		else
-			
-			System.out.println("Girilen tam sayilarin en buyugu..: " + sayi3);		
+
+			System.out.println("Girilen tam sayilarin en buyugu..: " + sayi3);
 
 	}
 

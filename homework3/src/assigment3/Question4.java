@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class Question4 {
 
 	public static void main(String[] args) {
-		
-		/*   Kullanicidan bir gun alin eger gun “Cuma” ise ekrana 
-		 *   “Muslumanlar icin kutsal gun” yazdirin. 
-		 *   “Cumartesi” ise ekrana “Yahudiler icin kutsal gun” yazdirin. 
-		 *   “Pazar” ise ekrana “Hiristiyanlar icin kutsal gun” yazdirin. 
-		 *   (switch case default ile yapalim)
+
+		/*
+		 * Kullanicidan bir gun alin eger gun “Cuma” ise ekrana “Muslumanlar icin kutsal
+		 * gun” yazdirin. “Cumartesi” ise ekrana “Yahudiler icin kutsal gun” yazdirin.
+		 * “Pazar” ise ekrana “Hiristiyanlar icin kutsal gun” yazdirin. (switch case
+		 * default ile yapalim)
 		 */
 
 		Scanner scan = new Scanner(System.in);
