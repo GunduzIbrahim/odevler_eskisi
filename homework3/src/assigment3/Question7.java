@@ -19,8 +19,7 @@ public class Question7 {
 		System.out.println("Lutfen 4 basamakli bir sayi giriniz...");
 		long girilenSayi = scan.nextLong();
 
-		String mesaj = ((girilenSayi > -10000)
-				&& (girilenSayi < 10000))
+		String mesaj = ((girilenSayi > -10000) && (girilenSayi < 10000))
 						? (((((girilenSayi % 10) == 0) || (((girilenSayi % 10) == 5) || (girilenSayi % 10) == -5))
 								? (((girilenSayi % 5 == 0) && (girilenSayi % 10 == 0)) ? "5'e bolunen cift sayi"
 										: "5'e bolunen tek sayi")
